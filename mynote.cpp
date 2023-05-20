@@ -3,7 +3,7 @@
 #include<cstring>
 int main(int argc,char* argv[]){
 	if(argc!=1){
-		if(strcmp(argv[0],"myNote")==0){
+		if(strcmp(argv[0],"mynote")==0){
 			std::ofstream ofs("data.txt",std::ios::app);
 			std::string line(argv[1]);
 			line=line+"\n";
@@ -16,7 +16,7 @@ int main(int argc,char* argv[]){
 
 	while(true){
 		std::ofstream ofs("data.txt",std::ios::app);
-		std::cout<<"myNote> ";
+		std::cout<<"mynote> ";
 		std::string line;
 		std::getline(std::cin, line);
 		
@@ -25,7 +25,7 @@ int main(int argc,char* argv[]){
 		 	 break;
 		}
 		if(line==".version"){
-			std::cout<<"Welcome to myNote"<<std::endl;
+			std::cout<<"Welcome to mynote"<<std::endl;
 			std::cout<<"Author:JuLongZhiLu"<<std::endl;
 			std::cout<<"Version:1.0.0 (2023/5/19)"<<std::endl;
           		std::cout<<"From:2023/5/19"<<std::endl;
