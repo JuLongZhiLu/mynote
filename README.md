@@ -3,6 +3,16 @@ A convinient note running in Linux
 
 这是一个运行在Linux上的非常方便的记事本
 
+
+### Next version
+
+### 下一个版本
+
+In the Next version,I want to add "scan" function
+
+在下一个版本，我想添加浏览功能
+
+
 ### Version 1.0.0
 ### 1.0.0版本
 
@@ -27,7 +37,7 @@ mynote what you want to write
 
 ![图片](https://github.com/JuLongZhiLu/mynote/assets/130359590/01b13ac8-37d6-477d-8d43-cee4a50567e1)
 
-Second way(not convient enough)
+Second way(not convinient enough)
 
 第二种方式
 
