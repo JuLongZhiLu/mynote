@@ -25,3 +25,23 @@ First way(recommand)
 mynote what you want to write
 
 
+![图片](https://github.com/JuLongZhiLu/mynote/assets/130359590/01b13ac8-37d6-477d-8d43-cee4a50567e1)
+
+Second way(not convient enough)
+
+第二种方式
+
+mynote
+
+![图片](https://github.com/JuLongZhiLu/mynote/assets/130359590/b99f54c1-ecc5-426e-b5f4-08637c8d8d26)
+
+
+How to exit?
+
+input .quit
+
+输入.quit
+
+![图片](https://github.com/JuLongZhiLu/mynote/assets/130359590/8ad8c34f-ad4e-4d20-b28d-4ea35a52db2e)
+
+
